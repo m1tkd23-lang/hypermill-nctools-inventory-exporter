@@ -1,0 +1,29 @@
+#.gitignore
+# secrets
+.env
+
+
+# venv
+.venv/
+venv/
+
+
+# python cache
+__pycache__/
+*.pyc
+
+
+# build artifacts
+dist/
+build/
+*.exe
+
+
+# logs
+*.log
+*.log.*
+
+
+# OS junk
+.DS_Store
+Thumbs.db

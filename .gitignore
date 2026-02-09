@@ -27,3 +27,10 @@ build/
 # OS junk
 .DS_Store
 Thumbs.db
+
+
+
+#追加
+*.pyc
+*.xlsx
+*.db

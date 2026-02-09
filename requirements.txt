@@ -1,1 +1,3 @@
-# 必要になったら追加
+pandas
+openpyxl
+python-dotenv

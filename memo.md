@@ -16,7 +16,7 @@ py -3.12 -m venv .venv
 
 .\.venv\Scripts\Activate.ps1
 
-python .\apps\main.py
+python .\apps\gui.py  
 
 
 

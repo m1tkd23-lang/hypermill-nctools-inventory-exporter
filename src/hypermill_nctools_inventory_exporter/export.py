@@ -92,7 +92,7 @@ def _detect_components_reach_col(conn) -> str:
 
 
 def _resolve_folder_id_by_nctools_path(conn, nctools_folder_path: str) -> int:
-    """
+    r"""
     'DD(...)\DD0600...' のような NCTools直下パスを folder_id に解決する。
     """
     cur = conn.cursor()
